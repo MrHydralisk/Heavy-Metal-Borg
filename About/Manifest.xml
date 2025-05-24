@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-	<identifier>GrimForge.HeavyMetalBorg</identifier>
+	<identifier>GrimForgeTeam.HeavyMetalBorg</identifier>
 	<version>1.0.0.0</version>
 	<dependencies>
 		<li>brrainz.harmony</li>
