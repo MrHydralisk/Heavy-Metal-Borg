@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+	<XenotypeDef ParentName="VREA_AndroidXenotypeAwakenedBase">
+		<defName>HMB_Android29EXT</defName>
+		<label>EXT-29</label>
+		<description>The EXT-29 is the stealth and support based full conversion that lacks the armor of its other counterparts. having camo capabilities. because of the nature of cybernetic overhaul, users are gifted with enhanced melee and ranged attacks by a significant margin</description>
+		<descriptionShort>The EXT-29 is the stealth and support based full conversion that lacks the armor of its other counterparts.</descriptionShort>
+		<iconPath>UI/XenotypeIcons/Androidtype_HMB_EXT29</iconPath>
+	</XenotypeDef>
+
+	<XenotypeDef ParentName="VREA_AndroidXenotypeAwakenedBase">
+		<defName>HMB_Android58EXT</defName>
+		<label>EXT-58</label>
+		<description>The EXT-58 is the jack of all traits when compared to other units. it is the master of none but still greatly improves what a colonist is capable of. It lacks any special abilities like the EXT-29 or EXT-117 but maintains well rounded speed and strength. because of the nature of cybernetic overhaul, users are gifted with enhanced melee and ranged attacks by a significant margin</description>
+		<descriptionShort>The EXT-58 is the jack of all traits when compared to other units.</descriptionShort>
+		<iconPath>UI/XenotypeIcons/Androidtype_HMB_EXT58</iconPath>
+	</XenotypeDef>
+
+	<XenotypeDef ParentName="VREA_AndroidXenotypeAwakenedBase">
+		<defName>HMB_Android117EXT</defName>
+		<label>EXT-117</label>
+		<description>The EXT-117 is the heaviest of the full conversion units. It boosts heavy armor and strength in exchange for a lack of enhanced speed to a greater extent when compared to other units. .it hosts compatibility with the EUS-316. because of the nature of cybernetic overhaul, users are gifted with enhanced melee and ranged attacks by a significant margin. also provides a learning bonus</description>
+		<descriptionShort>The EXT-117 is the heaviest of the full conversion units.</descriptionShort>
+		<iconPath>UI/XenotypeIcons/Androidtype_HMB_EXT117</iconPath>
+	</XenotypeDef>
+
+</Defs>
